@@ -1,9 +1,7 @@
-
 # Simple Python  DataFrame - CSV API Application
 
 This project demonstrates a simple Python application that processes CSV (Comma-Separated Values) files using the **Pandas** library. The application includes functionalities such as loading a CSV file, printing its records, counting the records, and reversing the order of the records.
 
----
 
 ## Prerequisites
 
@@ -11,8 +9,6 @@ Before running the application, ensure the following requirements are met:
 
 - **Python 3.12.7** installed on your system.
 - Basic understanding of Python and virtual environments.
-
----
 
 ## Setup Guide
 
@@ -31,24 +27,16 @@ Before running the application, ensure the following requirements are met:
 - Install the Pandas library by running:
   - `pip install pandas`
 
----
-
 ## How to Run
 
-### 1. Clone the Repository
-- Clone the repository and navigate to the project folder:
-  - `git clone https://github.com/yourusername/repository-name.git`
-  - `cd repository-name`
-
-### 2. Add Your CSV File
+### 1. Add Your CSV File
 - Place the CSV file you want to process in the project directory.
 - Update the file path in the application file (`app.py`) if needed.
 
-### 3. Run the Application
+### 2. Run the Application
 - Run the Python application:
   - `python app.py`
 
----
 
 ## Features
 
@@ -64,28 +52,13 @@ Before running the application, ensure the following requirements are met:
 4. **Reverse the Order of Records**
    - Reverses the order of the records and saves the result to a new CSV file. The output file is named `reversed_<original_filename>.csv`.
 
----
+
 
 ## Project Structure
 
 - `app.py`: Contains the main script for processing the CSV file.
 - `venv/`: The virtual environment folder.
 - `requirements.txt`: Lists the required Python libraries for the project.
-- `README.md`: This file, explaining the project setup and features.
 
----
 
-## Contribution
-
-Contributions are welcome! If you'd like to improve the project or add new features:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
- output :
  
